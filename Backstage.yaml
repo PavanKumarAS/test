@@ -1,12 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: DemoApp
+  name: DemoAppTest
   # This is an extra long description with Markdown
   description: |
-    [The Demo App](http://petstore.example.com) is an example API used to show features of the OpenAPI spec.
-    - First item
-    - Second item
+    [The Demo App](http://github.com) is an example API used to show features of the OpenAPI spec.
   links:
     - url: https://github.com/PavanKumarAS/test
       title: GitHub Repo
